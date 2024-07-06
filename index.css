@@ -116,6 +116,11 @@ a:hover{
   left: 40vh;
   top:20vh;
 }
+@media only screen and (max-width: 600px) {
+  .innerwallpaper{
+      display: none;
+  }
+}
 
 .word{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
